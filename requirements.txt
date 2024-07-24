@@ -6,6 +6,6 @@ pillow==10.4.0
 requests==2.32.3
 safetensors==0.4.3
 tokenizers==0.19.1
-torch==2.4.0+cpu
+torch==2.0.1+cpu
 transformers==4.43.2
 Werkzeug==3.0.3
